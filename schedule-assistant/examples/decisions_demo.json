@@ -1,0 +1,81 @@
+{
+  "rows": [
+    {
+      "source_row": 3,
+      "status": "NO MATCH",
+      "selected_index_code": "",
+      "alternative_index_codes": [],
+      "reason": "Library has no safety flooring in Red."
+    },
+    {
+      "source_row": 4,
+      "status": "NO MATCH",
+      "selected_index_code": "",
+      "alternative_index_codes": [],
+      "reason": "Library has no wood-effect laminate with a Gloss finish."
+    },
+    {
+      "source_row": 5,
+      "status": "NO MATCH",
+      "selected_index_code": "",
+      "alternative_index_codes": [],
+      "reason": "Library has no decorative wall tile with a Polished finish."
+    },
+    {
+      "source_row": 6,
+      "status": "NO MATCH",
+      "selected_index_code": "",
+      "alternative_index_codes": [],
+      "reason": "Library has no metal feature wall panel in Copper."
+    },
+    {
+      "source_row": 7,
+      "status": "NO MATCH",
+      "selected_index_code": "",
+      "alternative_index_codes": [],
+      "reason": "Library has no polished plaster wall in White."
+    },
+    {
+      "source_row": 8,
+      "status": "NO MATCH",
+      "selected_index_code": "",
+      "alternative_index_codes": [],
+      "reason": "Library has no vinyl wallcovering in Blue."
+    },
+    {
+      "source_row": 9,
+      "status": "MATCH",
+      "selected_index_code": "FL-001-02",
+      "alternative_index_codes": [],
+      "reason": "Slip rating and roll dimensions are not shown in the source data sheet."
+    },
+    {
+      "source_row": 10,
+      "status": "MATCH",
+      "selected_index_code": "FL-002-02",
+      "alternative_index_codes": [],
+      "reason": "Dimensions and colour reference not stated; slip resistance is NPD."
+    },
+    {
+      "source_row": 11,
+      "status": "MATCH",
+      "selected_index_code": "FL-001-01",
+      "alternative_index_codes": [],
+      "reason": "Colour filter matched case-insensitively."
+    },
+    {
+      "source_row": 12,
+      "status": "MATCH",
+      "selected_index_code": "LIN-005-01",
+      "alternative_index_codes": [],
+      "reason": ""
+    },
+    {
+      "source_row": 13,
+      "status": "MATCH",
+      "selected_index_code": "LIN-001-01",
+      "alternative_index_codes": [],
+      "reason": "Matt matched to Matte."
+    }
+  ]
+}

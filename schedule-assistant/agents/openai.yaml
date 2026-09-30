@@ -1,0 +1,14 @@
+interface:
+  display_name: Schedule Assistant
+  short_description: Builds coded finishes schedules from SharePoint
+  default_prompt: Use $schedule-assistant to turn my Finish Requirements workbook into Finishes_Schedule.xlsx.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true
