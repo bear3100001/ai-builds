@@ -1,0 +1,11 @@
+# Real project data — never commit
+*.xlsx
+!**/examples/*.xlsx
+**/private/
+
+# Working files
+inspection.json
+decisions.json
+__pycache__/
+.env
+.DS_Store
