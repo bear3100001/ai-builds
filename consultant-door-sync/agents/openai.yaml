@@ -1,0 +1,14 @@
+interface:
+  display_name: Consultant Door Sync
+  short_description: Maps consultant door data into a BIMLink import
+  default_prompt: Use $consultant-door-sync to overlay this consultant plan on my door plan and fill my BIMLink door export.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+
+policy:
+  products:
+    - chatgpt
+    - codex
+    - api
+    - atlas
+  allow_implicit_invocation: true
